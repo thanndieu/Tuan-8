@@ -1,0 +1,7 @@
+D:\Bai1_Tuan8\Bai1_Tuan8\bin\Debug\Bai1_Tuan8.exe
+D:\Bai1_Tuan8\Bai1_Tuan8\bin\Debug\Bai1_Tuan8.pdb
+D:\Bai1_Tuan8\Bai1_Tuan8\obj\x86\Debug\Bai1_Tuan8.Form1.resources
+D:\Bai1_Tuan8\Bai1_Tuan8\obj\x86\Debug\Bai1_Tuan8.Properties.Resources.resources
+D:\Bai1_Tuan8\Bai1_Tuan8\obj\x86\Debug\Bai1_Tuan8.csproj.GenerateResource.Cache
+D:\Bai1_Tuan8\Bai1_Tuan8\obj\x86\Debug\Bai1_Tuan8.exe
+D:\Bai1_Tuan8\Bai1_Tuan8\obj\x86\Debug\Bai1_Tuan8.pdb

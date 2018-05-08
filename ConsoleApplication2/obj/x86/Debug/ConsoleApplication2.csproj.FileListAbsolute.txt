@@ -1,0 +1,4 @@
+D:\Bai1_Tuan8\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Bai1_Tuan8\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Bai1_Tuan8\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Bai1_Tuan8\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
